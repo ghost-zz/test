@@ -1,4 +1,4 @@
-cve_id:CVE-2026-94666
+cve_id:CVE-2024-88777
 升级版本：官方已发布新版本修复该漏洞，建议受影响的 Apache CXF（org.apache.cxf:cxf-rt-rs-security-oauth2）用户升级至 4.2.4 及以上版本、4.1.9 及以上版本或 3.6.13 及以上版本。
 临时缓解措施：
       网络层：
